@@ -71,4 +71,7 @@ a{
         width: 380px;
         height: 590px;
     }
+    img{
+        margin-left: 140px;
+    }
 }
